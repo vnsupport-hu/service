@@ -583,6 +583,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, hr, bl
     font-size: 16px;
     text-decoration: none;
   }
+
   
   input[type="email"] {
     padding-left: 10px;
@@ -852,6 +853,8 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, hr, bl
     object-fit: cover;
   }
   }
+
+  
   
   
   @media (max-width: 768px) {
